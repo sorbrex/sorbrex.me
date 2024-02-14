@@ -1,5 +1,5 @@
 <script>
-    import ButtonLink from "Component/Simple/UI/ButtonLink.svelte";
+    import ButtonLink from "../UI/ButtonLink.svelte";
 
     const menuOpen = false;
 </script>
