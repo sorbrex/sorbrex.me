@@ -9,7 +9,7 @@ const config = {
 		alias: {
 			$Components: 'src/Components',
 			$Sections: 'src/Components/Sections',
-			$Assets: 'src/Assets',
+			$Assets: 'src/Assets'
 		}
 	}
 };
