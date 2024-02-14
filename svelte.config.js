@@ -8,8 +8,7 @@ const config = {
 		adapter: adapter(),
 		alias: {
 			$Components: 'src/Components',
-			$Sections: 'src/Components/Sections',
-			$Assets: 'src/Assets'
+			$Sections: 'src/Components/Sections'
 		}
 	}
 };

@@ -10,6 +10,6 @@
 	</div>
 
 	<div class="my-2 w-1/4 sm:my-0">
-		<img src="https://via.placeholder.com/500" alt="Profile" class="rounded-full" />
+		<img src="https://i.postimg.cc/ZvtGJfHR/photo-2024-02-14-15-52-56.jpg" alt="Profile" class="rounded-full" />
 	</div>
 </section>
