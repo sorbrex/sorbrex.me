@@ -34,7 +34,12 @@
 
 		<!--    More-->
 		<div id="More">
-			<More />
+			<More data={data}/>
+		</div>
+
+		<!--    Footer-->
+		<div id="Footer" class="flex justify-center items-center h-18 pb-1">
+			<p class="text-paragraphColor text-xs"> <a href="https://it.wikipedia.org/wiki/Licenza_MIT" target="_blank" class="inline text-titleColor border-titleColor border-b-2 border-dotted">MIT</a> © 2024 Nando Sorbello</p>
 		</div>
 	</div>
 </main>

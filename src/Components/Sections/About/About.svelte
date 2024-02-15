@@ -3,9 +3,9 @@
 		<h1 class="text-titleColor font-bold text-4xl pb-1">Nando</h1>
 		<h2 class="text-subtitleColor font-bold text-lg pb-1">Full Stack & iOS Developer</h2>
 		<p class="text-paragraphColor font-normal text-base">
-			I am a Full Stack & iOS Developer with a passion for creating and developing new ideas. I am a
-			highly motivated and hardworking individual, who is always looking to learn and improve my
-			skills.
+			I got my Master as Full Stack Developer at Start2Impact University and I'm currently a Backend Developer at Movia, in Catania.
+			My goal is to always keep up to date on the things I already know and to discover new ones.
+			I am currently studying Game Development technologies to increase my knowledge with different languages for different purposes and contexts.
 		</p>
 	</div>
 
