@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="./static/icons/icon.ico" width="150"/>
-    <h1 align="center">Sorbrex.me</h1>  
+    <h1 align="center">Sorbrex.me</h1>
     <h3 align="center">Portfolio Site with SvelteKit</h3>
 </div>
 
