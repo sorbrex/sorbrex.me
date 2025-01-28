@@ -18,9 +18,7 @@ Font used is [Satoshi](https://www.fontshare.com/fonts/satoshi) while the icons 
 The site is hosted on Vercel and can be accessed at [sorbrex.me](https://sorbrex-me.vercel.app/).
 
 ## ⛏️ Technologies <a name = "technologies"></a>
-- [<img src="https://cdn.simpleicons.org/svelte/#FF3E00" title="Svelte" alt="Svelte" width="40" height="40"/>](https://kit.svelte.dev/) &nbsp;&nbsp;&nbsp; SvelteKit
-- [<img src="https://cdn.simpleicons.org/vercel/fff" title="vercel" alt="vercel" width="40" height="40"/>](https://vercel.com/) &nbsp;&nbsp;&nbsp; Vercel
-- [<img src="https://cdn.simpleicons.org/wakatime/fff" title="wakatime" alt="wakatime" width="40" height="40"/>](https://wakatime.com/) &nbsp;&nbsp;&nbsp; WakaTime
+[![BackEndSkillOne](https://skillicons.dev/icons?i=svelte,vercel)](https://skillicons.dev)
 
 ## ✍️ Authors <a name = "authors"></a>
 - GitHub: [sorbrex](https://github.com/sorbrex)
