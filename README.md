@@ -21,7 +21,6 @@ The site is hosted on Vercel and can be accessed at [sorbrex.me](https://sorbrex
 - [<img src="https://cdn.simpleicons.org/svelte/#FF3E00" title="Svelte" alt="Svelte" width="40" height="40"/>](https://kit.svelte.dev/) &nbsp;&nbsp;&nbsp; SvelteKit
 - [<img src="https://cdn.simpleicons.org/vercel/fff" title="vercel" alt="vercel" width="40" height="40"/>](https://vercel.com/) &nbsp;&nbsp;&nbsp; Vercel
 - [<img src="https://cdn.simpleicons.org/wakatime/fff" title="wakatime" alt="wakatime" width="40" height="40"/>](https://wakatime.com/) &nbsp;&nbsp;&nbsp; WakaTime
-- [<img src="https://cdn.simpleicons.org/lastdotfm/#D51007" title="lastdotfm" alt="lastdotfm" width="40" height="40"/>](https://www.last.fm/) &nbsp;&nbsp;&nbsp; Last.fm
 
 ## ✍️ Authors <a name = "authors"></a>
 - GitHub: [sorbrex](https://github.com/sorbrex)
