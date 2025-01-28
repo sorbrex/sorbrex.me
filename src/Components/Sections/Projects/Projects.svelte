@@ -14,8 +14,8 @@
 		/>
 		<ProjectCard
 			source="https://cdn.simpleicons.org/bookstack/fff"
-			title="ChapterMerge"
-			description="This project was born from the need to be able to read Tachiyomi comics on your Kindle Device. With this tool you will be able to take all the Chapters of a manga and divide them into Volumes."
+			title="Kinga"
+			description="This project was born from the need to be able to read Tachiyomi comics on your Kindle Device. With this tool you will be able to take all the Chapters of a manga and turn them in merged Volumes."
 			redirect="https://github.com/sorbrex/chapter-converter"
 		/>
 		<ProjectCard
