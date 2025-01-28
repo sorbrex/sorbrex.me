@@ -30,11 +30,11 @@ export const load: PageServerLoad = async () => {
 	return {
 		info: {
 			codingTimeObject: {
-				totalTime: codingInformation.grand_total.human_readable_total_including_other_language,
+				totalTime: codingInformation?.grand_total.human_readable_total_including_other_language,
 			},
 			musicUserInfoObject: {
-				name: musicUserInformation.name,
-				playcount: musicUserInformation.playcount,
+				name: musicUserInformation?.name,
+				playcount: musicUserInformation?.playcount,
 			},
 			recentTrack: {
 				artist: recentTracks.artist['#text'],
